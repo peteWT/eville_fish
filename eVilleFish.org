@@ -1,0 +1,13 @@
+* Fishy data
+
+
+#+BEGIN_SRC ipython :session fish
+import pandas as pd
+
+
+#+END_SRC
+
+#+RESULTS:
+:results:
+# Out [1]: 
+:end:
